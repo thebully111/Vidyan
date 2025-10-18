@@ -1,73 +1,83 @@
-# Welcome to your Lovable project
+# Vidyaan Project: Learning Platform
 
-## Project info
+Website Link: http://localhost:8080/auth
 
-**URL**: https://lovable.dev/projects/5197739c-70bf-4f0d-9265-7b8b91ec2edf
+This project is an easy-to-use learning platform for teachers and students.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## Team
 
-**Use Lovable**
+*Credit belongs to the Vidyaan Team.*
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5197739c-70bf-4f0d-9265-7b8b91ec2edf) and start prompting.
+| Role | Name |
+| :--- | :--- |
+| *Team Name* | *Vidyaan Team (Bandi Nikhileswar)* |
+| Team Member | Balaji B |
+| Team Member | C. Charansai |
+| Team Member | T. Srinivasulu |
+| Team Member | B. Nikhileswar |
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+The project uses:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* *Vite*
+* *TypeScript*
+* *React*
+* *shadcn-ui*
+* *Tailwind CSS*
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## Features
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+The platform includes:
 
-# Step 3: Install the necessary dependencies.
-npm i
+* *Login*: Teachers and Students.
+* *Courses*: Create and join courses.
+* *Tracking*: See and track your learning progress daily.
+* *Access*: Safe and easy to use.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## Access & Development
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+* *Local Link*: http://localhost:8082/
+* *Platform URL*: https://vidyaan.dev/projects/bdd13555-611a-488d-8a33-12ff9e76f3e2
 
-**Use GitHub Codespaces**
+### How to Run Locally
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+You must have *Node.js & npm* installed.
 
-## What technologies are used for this project?
+1.  *Clone*:
+    sh
+    git clone [https://github.com/thebully111](https://github.com/thebully111)
+    
+2.  *Go to folder*:
+    sh
+    cd Vidyaan-Project-Name # Replace with your actual project directory name
+    
+3.  *Install*:
+    sh
+    npm i
+    
+4.  *Start*:
+    sh
+    npm run dev
+    
 
-This project is built with:
+### Editing
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+* Use your preferred *IDE* (see steps above).
+* Use the *Vidyaan Platform* interface.
+* Edit files directly on *GitHub* or via *Codespaces*.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/5197739c-70bf-4f0d-9265-7b8b91ec2edf) and click on Share -> Publish.
+## Deployment & Domains
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+* *Deploy: Open the **Vidyaan Platform* and click *Share -> Publish*.
+* *Custom Domains: Set up a custom domain in **Project > Settings > Domains*.
