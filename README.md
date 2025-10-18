@@ -1,6 +1,6 @@
 # Vidyaan Project: Learning Platform
 
-Website Link: http://localhost:8080/auth
+Website Link: http://10.11.3.185:8080/
 
 This project is an easy-to-use learning platform for teachers and students.
 
